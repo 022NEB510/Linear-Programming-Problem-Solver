@@ -32,7 +32,7 @@ void intarr_to_floatarr(int iarray[], float farray[]);
 
 int main()
 {
-    printf("This is an app for solving Linear Programming Problems of Maximization and Minimization developed by Vinit Baral.\n--------------------------\n")
+    printf("This is an app for solving Linear Programming Problems of Maximization and Minimization developed by Vinit Baral.\n--------------------------\n");
     printf("Enter the objective function: ");
     scanf("%[^ ] %[^\n]", keyword, objective_function);
     printf("Enter the first constraint: ");
